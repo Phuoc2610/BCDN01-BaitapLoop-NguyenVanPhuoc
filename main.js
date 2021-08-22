@@ -21,10 +21,10 @@ document.getElementById("btnLoop1").onclick = function () {
         // console.log("lần lặp"+i);
         if (i % 2 == 0) {
             soChan = soChan + i + " ";
-            console.log("Số chẵn:" + soChan);
+            // console.log("Số chẵn:" + soChan);
         } else {
             soLe = soLe + i + " ";
-            console.log("Số lẻ: " + soLe);
+            // console.log("Số lẻ: " + soLe);
         }
     }
     // var i = 0;
